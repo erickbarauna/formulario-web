@@ -11,5 +11,11 @@
 
 <a href="https://github.com/PHPMailer/PHPMailer" target="_blank"><img width='60px' src="formulario-loja/img/phpmailer.png" alt="Logo PHPMailer"></img></a>
 
+<ul>
+<li>
+<a href="https://pt.wikipedia.org/wiki/HTML5" target="_blank"><img width='60px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Logo HTML"></img></a>
+</li>
+</ul>
+
 
 
