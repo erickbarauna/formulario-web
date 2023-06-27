@@ -15,8 +15,11 @@
     <a href="https://github.com/PHPMailer/PHPMailer" target="_blank"><img width='45px' src="formulario-loja/img/phpmailer.png" alt="Logo PHPMailer"></img></a>
 </div>
 
-<h2>Funcionalidades</h2>
+<h2>Funcionalidades do projeto</h2>
 
+<ul>
+    <li>`Vitrine`: Na tela Vitrine...</li>
+</ul>
 
 
 
