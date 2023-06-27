@@ -17,11 +17,16 @@
     <a href="https://www.wampserver.com/en/" target="_blank"><img width='45px' src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/WampServer-logo.svg/1200px-WampServer-logo.svg.png" alt="Logo WampServer"></img></a>
 </div>
 
-<h2>Funcionalidades do projeto</h2>
+<h2>Descrição do projeto</h2>
 
-- `Vitrine`: Na tela Vitrine o usuário escolhe o produto que deseja (as imagens são resgatadas do banco de dados) 
-<img width='600px' src="formulario-loja/img/vitrine.png" alt="Tela Vitrine"></img>
+- `Vitrine`: Na tela Vitrine o usuário escolhe o produto que deseja (as imagens são resgatadas do banco de dados), ao clicar no produto ele é redirecionado à tela Produto. 
+
+<img src="formulario-loja/img/vitrine.png" alt="Tela Vitrine"></img>
+
 - `Produto`: Na tela Vitrine o usuário...
+
+
+
 - `Pedido`: Na tela Vitrine o usuário...
 - `Login`: Na tela Vitrine o usuário...
 - `Cadastro`: Na tela Vitrine o usuário...
