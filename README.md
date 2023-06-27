@@ -15,7 +15,7 @@
     <a href="https://github.com/PHPMailer/PHPMailer" target="_blank"><img width='45px' src="formulario-loja/img/phpmailer.png" alt="Logo PHPMailer"></img></a>
 </div>
 
-<h1>Funcionalidades</h1>
+<h2>Funcionalidades</h2>
 
 
 
