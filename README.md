@@ -19,7 +19,8 @@
 
 <h2>Funcionalidades do projeto</h2>
 
-- `Vitrine`: Na tela Vitrine o usuário escolhe o produto que desejar (que são resgatados do banco de dados) 
+- `Vitrine`: Na tela Vitrine o usuário escolhe o produto que deseja (as imagens são resgatadas do banco de dados) 
+<img src="formulario-loja/img/vitrine.png" alt="Tela Vitrine"></img>
 - `Produto`: Na tela Vitrine o usuário...
 - `Pedido`: Na tela Vitrine o usuário...
 - `Login`: Na tela Vitrine o usuário...
