@@ -16,7 +16,7 @@
 </div>
 
 <h2>Funcionalidades do projeto</h2>
-
+`Vitrine`
 <ul>
     <li>`Vitrine`: Na tela Vitrine...</li>
 </ul>
