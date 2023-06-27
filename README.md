@@ -13,11 +13,13 @@
     <a href="https://pt.wikipedia.org/wiki/JavaScript" target="_blank"><img width='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Logo JavaScript"></img></a> 
     <a href="https://www.php.net/" target="_blank"><img width='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="Logo PHP"></img></a> 
     <a href="https://github.com/PHPMailer/PHPMailer" target="_blank"><img width='45px' src="formulario-loja/img/phpmailer.png" alt="Logo PHPMailer"></img></a>
+    <a href="https://www.mysql.com/" target="_blank"><img width='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="Logo MySQL"></img></a>
+    <a href="https://www.wampserver.com/en/" target="_blank"><img width='45px' src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/WampServer-logo.svg/1200px-WampServer-logo.svg.png" alt="Logo WampServer"></img></a>
 </div>
 
 <h2>Funcionalidades do projeto</h2>
 
-- `Vitrine`: Na tela Vitrine o usuário...
+- `Vitrine`: Na tela Vitrine o usuário escolhe o produto que desejar (que são resgatados do banco de dados) 
 - `Produto`: Na tela Vitrine o usuário...
 - `Pedido`: Na tela Vitrine o usuário...
 - `Login`: Na tela Vitrine o usuário...
