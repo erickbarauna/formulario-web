@@ -21,15 +21,11 @@
 
 - `Vitrine`: Na tela Vitrine o usuário escolhe o produto que deseja (as imagens e nomes são resgatadas do banco de dados), ao clicar no produto ele é direcionado à tela Produto. 
 
-<div align='center'>
-    <img width='670px' src="formulario-loja/img/vitrine.png" alt="Tela Vitrine"></img>
-</div>
+<br>
 
 - `Produto`: Na tela Produto todos os dados do produto escolhido são resgatados do banco. Aqui o usuário só tem a opção de comprar, ao clicar no botão 'COMPRAR' é direcionado à tela de login.
 
-<div align='center'>
-    <img width='670px' src="formulario-loja/img/produto.png" alt="Tela Produto"></img>
-</div>
+<br>
 
 - `Pedido`: Na tela Vitrine o usuário...
 - `Login`: Na tela Vitrine o usuário...
