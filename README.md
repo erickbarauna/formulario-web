@@ -1,5 +1,6 @@
 <img src='formulario-loja/img/download-php.png'></img>
-https://img.shields.io/badge/STATUS-FINALIZADO-%23291f6c
+![Static Badge](https://img.shields.io/badge/STATUS-FINALIZADO-%23291f6c)
+
 
 
 <h1>Resumo do projeto</h1>
