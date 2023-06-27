@@ -11,9 +11,11 @@
     <a href="https://pt.wikipedia.org/wiki/HTML5" target="_blank"><img width='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="Logo HTML"></img></a>  
     <a href="https://pt.wikipedia.org/wiki/Cascading_Style_Sheets" target="_blank"><img width='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="Logo CSS"></img></a>  
     <a href="https://pt.wikipedia.org/wiki/JavaScript" target="_blank"><img width='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Logo JavaScript"></img></a> 
-    <a href="https://github.com/PHPMailer/PHPMailer" target="_blank"><img width='45px' src="formulario-loja/img/phpmailer.png" alt="Logo PHPMailer"></img></a>
     <a href="https://www.php.net/" target="_blank"><img width='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="Logo PHP"></img></a> 
+    <a href="https://github.com/PHPMailer/PHPMailer" target="_blank"><img width='45px' src="formulario-loja/img/phpmailer.png" alt="Logo PHPMailer"></img></a>
 </div>
+
+<h1>Funcionalidades</h1>
 
 
 
