@@ -1,4 +1,4 @@
-<div align-items='center'>
+<div align='center'>
     <h1>Formulário de Loja com <img width='90px' src='formulario-loja/img/PHP-logo.jpg'></img></h1>
 </div>
 
