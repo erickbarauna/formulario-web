@@ -25,7 +25,7 @@
 
 - `Produto`: Na tela Produto todos os dados do produto escolhido são resgatados do banco. Aqui o usuário só tem a opção de comprar, ao clicar no botão 'COMPRAR' é direcionado à tela de login.
 
-<img width='650px' src="formulario-loja/img/produto.png" alt="Tela Produto"></img>
+<img align='center' width='650px' src="formulario-loja/img/produto.png" alt="Tela Produto"></img>
 
 - `Pedido`: Na tela Vitrine o usuário...
 - `Login`: Na tela Vitrine o usuário...
