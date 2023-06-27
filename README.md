@@ -7,4 +7,4 @@
 
 <h2>Tecnologias Utilizadas</h2>
 
-<a href="https://github.com/PHPMailer/PHPMailer"><img src="formulario-loja/img/phpmailer.png" alt="Logo PHPMailer"></img></a>
+<a href="https://github.com/PHPMailer/PHPMailer"><img width='60px' src="formulario-loja/img/phpmailer.png" alt="Logo PHPMailer"></img></a>
