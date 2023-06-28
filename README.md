@@ -15,6 +15,7 @@
     <a href="https://github.com/PHPMailer/PHPMailer" target="_blank"><img width='45px' src="formulario-loja/img/phpmailer.png" alt="Logo PHPMailer"></img></a>
     <a href="https://www.mysql.com/" target="_blank"><img width='45px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="Logo MySQL"></img></a>
     <a href="https://www.wampserver.com/en/" target="_blank"><img width='45px' src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/WampServer-logo.svg/1200px-WampServer-logo.svg.png" alt="Logo WampServer"></img></a>
+    <a href="https://www.phpmyadmin.net/" target="_blank"><img width='45px' src="formulario-loja/img/PhpMyAdmin_logo.png" alt="Logo WampServer"></img></a>
 </div>
 
 <h2>Descrição do projeto</h2>
