@@ -18,7 +18,7 @@
     <a href="https://www.phpmyadmin.net/" target="_blank"><img width='45px' src="formulario-loja/img/PhpMyAdmin_logo.png" alt="Logo WampServer"></img></a>
 </div>
 
-<h2>Descrição e Funcionalidades do projeto</h2>
+<h2>Descrição e Funcionalidades</h2>
 
 - `Vitrine`: Na tela Vitrine o usuário escolhe o produto que deseja (as imagens e nomes são resgatadas do banco de dados), ao clicar no produto ele é direcionado à tela Produto. 
 
