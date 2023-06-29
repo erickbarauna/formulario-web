@@ -28,10 +28,7 @@
 
 <br>
 
-- `Tela Login`: Na tela de Login o usuário tem 3 opções, Login, Cadastro e Esqueci Senha. Para recuperar sua senha é preciso somente do e-mail cadastrado no banco para que seja enviado um e-mail com a senha
-- `Login`: Na tela Vitrine o usuário...
-- `Cadastro`: Na tela Vitrine o usuário...
-- `Pagamento`: Na tela Vitrine o usuário...
+-- `Tela Login`: Na tela de Login o usuário tem 3 opções, Login, Cadastro e Esqueci Senha. Para recuperar sua senha é preciso somente do e-mail cadastrado no banco para que seja enviado um e-mail com a senha
 
 
 
