@@ -7,6 +7,10 @@
 
 <h2>Apresentação</h2>
 
+
+https://github.com/erickbarauna/formulario-web/assets/98670029/dce21a85-d463-4c54-b1a3-070eb617eb9e
+
+
 <h2>Descrição e Funcionalidades</h2>
 
 - `Tela Vitrine`: Na tela Vitrine o usuário escolhe o produto que deseja (as imagens e nomes são resgatadas do banco de dados), ao clicar no produto ele é direcionado à tela Produto. 
