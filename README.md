@@ -24,15 +24,29 @@
 
 <br>
 
-- `Tela Produto`: Na tela Produto todos os dados do produto escolhido são resgatados do banco. Aqui o usuário só tem a opção de comprar, ao clicar no botão 'COMPRAR' é direcionado à tela de login.
+- `Tela Produto`: Exibi os dados de acordo com o produto selecionado. Aqui o usuário só tem a opção de comprar, ao clicar no botão 'COMPRAR' é direcionado à tela de login. 
+
 
 <br>
 
-- `Tela Login`: Na tela de Login o usuário tem 3 opções, Login, Cadastro e Esqueci Senha. Para recuperar sua senha é preciso somente do e-mail cadastrado no banco para que seja enviado um e-mail com a senha
+- `Tela Login`: Na tela de Login há três opções, Login, Cadastro e Esqueci Senha. Para recuperar sua senha é preciso somente do e-mail cadastrado no banco para que seja enviado um e-mail de resposta.
 
-<ul>
-    <li>Botão Cadastre-se: </li>    
-</ul>
+<br>
 
+- `Tela Cadastro`: Na tela de Cadastro o usuário preenche os campos necessários. Ao clicar em 'Cadastrar Dados' é feito o registro no banco e ele é direcionado à tela de Login.
 
+<br>
 
+- `Tela Alterar Usuário`: Ao efetuar o login, o usuário é direcionado a tela Alterar Usuário. Aqui ele tem a opção de alterar qualquer um de seus dados e 'Confirmar Dados' para prosseguir à tela de pagamento.
+
+<br>
+
+- `Tela Pagamento`: Aqui o usuário deve selecionar a Forma de Pagamento (Boleto ou Cartão) para que assim, escolha a Condição de Pagamento (À Vista ou até 12x sem juros). O valor da parcela é atualizado automaticamente para uma melhor visualização. Ao clicar em 'Comfirmar' o usuário é direcionado à tela de Recido do Pedido.
+
+<br>
+
+- `Tela Recido do Pedido`: Exibe os dados da compra com Nome, Endereço, Forma e Condição de Pagamento, e o valor do produto. Ao clicar em 'Registrar Pedido' é feito o registro na tabela de pedidos e o usuário direcionado à tela Gerênciar Pedido.
+
+<br>
+
+- `Tela Gerênciar Pedido`: Exibe uma tabela com cada pedido feito pelo usuário podendoser alterado Nome ou Endereço dos pedidos.
