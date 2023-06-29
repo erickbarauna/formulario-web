@@ -20,15 +20,15 @@
 
 <h2>Descrição e Funcionalidades</h2>
 
-- `Vitrine`: Na tela Vitrine o usuário escolhe o produto que deseja (as imagens e nomes são resgatadas do banco de dados), ao clicar no produto ele é direcionado à tela Produto. 
+- `Tela Vitrine`: Na tela Vitrine o usuário escolhe o produto que deseja (as imagens e nomes são resgatadas do banco de dados), ao clicar no produto ele é direcionado à tela Produto. 
 
 <br>
 
-- `Produto`: Na tela Produto todos os dados do produto escolhido são resgatados do banco. Aqui o usuário só tem a opção de comprar, ao clicar no botão 'COMPRAR' é direcionado à tela de login.
+- `Tela Produto`: Na tela Produto todos os dados do produto escolhido são resgatados do banco. Aqui o usuário só tem a opção de comprar, ao clicar no botão 'COMPRAR' é direcionado à tela de login.
 
 <br>
 
-- `Login`: Na tela de Login o usuário pode preencher seus dados e fazer Login, caso não tenha cadastro 
+- `Tela Login`: Na tela de Login o usuário tem 3 opções, Login, Cadastro e Esqueci Senha. Para recuperar sua senha é preciso somente do e-mail cadastrado no banco para que seja enviado um e-mail com a senha
 - `Login`: Na tela Vitrine o usuário...
 - `Cadastro`: Na tela Vitrine o usuário...
 - `Pagamento`: Na tela Vitrine o usuário...
