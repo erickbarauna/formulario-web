@@ -9,9 +9,9 @@
 
 
 
-
-https://github.com/erickbarauna/formulario-web/assets/98670029/621258af-f803-4e09-b17f-ae1f74b913b0
-
+<div width='500px'>
+    https://github.com/erickbarauna/formulario-web/assets/98670029/621258af-f803-4e09-b17f-ae1f74b913b0
+</div>
 
 
 
