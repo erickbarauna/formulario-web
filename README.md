@@ -5,6 +5,8 @@
 
 <p>Nesse projeto foi representado um sistema para uma concenssionária de carros. Onde o usuário escolhe um produto, faz login ou cadastro, escolhe a forma de pagamento e registra seu pedido.</p>
 
+<h2>Apresentação</h2>
+
 <h2>Descrição e Funcionalidades</h2>
 
 - `Tela Vitrine`: Na tela Vitrine o usuário escolhe o produto que deseja (as imagens e nomes são resgatadas do banco de dados), ao clicar no produto ele é direcionado à tela Produto. 
