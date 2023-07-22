@@ -44,7 +44,7 @@ https://github.com/erickbarauna/formulario-web/assets/98670029/312e37f3-1aab-416
 
 <br>
 
-- `Tela Gerênciar Pedido`: Exibe uma tabela com cada pedido feito pelo usuário podendoser alterado Nome ou Endereço dos pedidos.
+- `Tela Gerênciar Pedido`: Exibe uma tabela com cada pedido feito pelo usuário podendo ser feito a alteração do Nome ou Endereço dos pedidos.
 
 <h2>Tecnologias Utilizadas</h2>
 
